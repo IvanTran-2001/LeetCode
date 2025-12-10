@@ -71,3 +71,4 @@ if __name__ == "__main__":
         return slow  # slow ends up at the middle
             
 arr = [2, 3, 2, 4, 3, 2]
+arr = [2, 3, 2, 4, 3, 2]
